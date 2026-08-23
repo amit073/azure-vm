@@ -4,7 +4,7 @@ module "azure_vm" {
 
 #   resource_group_name = "rg-production"
 #   location            = "East US"
-    vm_size             = "Standard B2as v2"
+    vm_size             = "Standard_F2s_v2"
 
   # other variables exposed by your module
 }
