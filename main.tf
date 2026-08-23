@@ -1,6 +1,6 @@
 module "azure_vm" {
   source  = "app.terraform.io/SigelSolutions/azure-vm/azurerm"
-  version = "1.0.1"
+  version = "1.0.0"
 
 #   resource_group_name = "rg-production"
 #   location            = "East US"
